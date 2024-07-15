@@ -1,0 +1,31 @@
+div{
+    margin-right: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+}
+
+#container {
+    width: 200px;
+    margin: 0 auto;
+    background-color: lightgray;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    padding: 2px 4px;
+    text-align: left;
+}
+
+h2 {
+    font-family: Tahoma, sans-serif;
+    text-shadow: 2px 2px 2px #e8f7b0;
+}
+
+img {
+    width: 200px;
+}
+
+ul{
+    text-align: left;
+}
